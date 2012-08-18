@@ -1,3 +1,10 @@
+Project CS152 Second Semester
+Team ::
+Mayank Meghwanshi
+Shubham Mehta
+Vivek Atulkar
+
+
 How to Run :
 Open game.rkt in drracket and press ctrl + r or click on run button .
 This will open the GUI.
